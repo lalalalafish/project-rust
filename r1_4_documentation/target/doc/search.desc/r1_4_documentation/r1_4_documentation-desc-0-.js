@@ -1,0 +1,1 @@
+searchState.loadedDescShard("r1_4_documentation", 0, "A human being is represented here\nReturns the argument unchanged.\nGives a friendly hello!\nCalls <code>U::from(self)</code>.\nA person must have a name, no matter how much Juliet may …\nCreates a person with the given name.")
